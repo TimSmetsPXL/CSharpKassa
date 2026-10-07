@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tsmet\\source\\repos\\CS-Essentials\\Kassa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C916763D-2ECF-E9EB-2ED4-1EE2B13253D6}|Kassa\\Kassa.csproj|c:\\users\\tsmet\\source\\repos\\cs-essentials\\kassa\\kassa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C916763D-2ECF-E9EB-2ED4-1EE2B13253D6}|Kassa\\Kassa.csproj|solutionrelative:kassa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tsmet\\source\\repos\\CS-Essentials\\Kassa\\Kassa\\Program.cs",
+              "RelativeDocumentMoniker": "Kassa\\Program.cs",
+              "ToolTip": "C:\\Users\\tsmet\\source\\repos\\CS-Essentials\\Kassa\\Kassa\\Program.cs",
+              "RelativeToolTip": "Kassa\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T10:03:12.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
